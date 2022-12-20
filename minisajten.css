@@ -3,13 +3,26 @@
   padding: 0;
 }
 body {
-  background-color: rgb(41, 52, 76);
+  background-color: rgb(127, 127, 127);
 }
 
 .lobby {
   width: 100%;
   height: 15vh;
-  background-color: rgb(100, 100, 100);
+  background-color: rgb(36, 36, 36);
+}
+.logo img {
+  color: azure;
+  margin-left: 3%;
+  margin-top: 0.6%;
+  width: 4%;
+  float: left;
+}
+.home {
+  color: azure;
+  float: left;
+  padding-top: 1.8%;
+  margin-left: 5%;
 }
 .links {
   padding-top: 1.8%;
@@ -21,7 +34,7 @@ a {
   color: rgb(0, 0, 0);
   font-size: 10px;
   padding: 10px;
-  color: white;
+  color: azure;
   text-decoration: none;
 }
 a:hover {
