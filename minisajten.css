@@ -4,6 +4,7 @@
 }
 body {
   background-color: rgb(127, 127, 127);
+  height: 2000px;
 }
 
 .lobby {
@@ -63,6 +64,30 @@ a:hover {
   .topnav input[type="text"] {
     border: 1px solid #ccc;
   }
+}
+.fp {
+  background-color: azure;
+  margin-top: 3%;
+  margin-left: 3%;
+  width: 94%;
+  height: 420px;
+  position: absolute;
+}
+b {
+  background-color: rgb(0, 187, 0);
+  position: absolute;
+  margin-left: 10%;
+  margin-top: 18%;
+  padding: 10px;
+  color: azure;
+  font-size: 40px;
+}
+b:hover {
+  border: 1px;
+  box-shadow: 5px 5px #0008;
+  transition: 1s;
+  background-color: gold;
+  color: black;
 }
 
 /* .qub {
