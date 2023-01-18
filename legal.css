@@ -67,6 +67,24 @@ a:hover {
   margin-top: 2.3%;
   margin-left: 10%;
 }
+.about {
+  margin-top: 15%;
+  color: azure;
+  text-align: center;
+}
+.legal {
+  margin-top: 5%;
+  color: azure;
+  text-align: center;
+}
+h2 {
+  font-size: 60px;
+  font-family: "Times New Roman", Times, serif;
+}
+b {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+}
 @media screen and (max-width: 1000px) {
   .search [type="text"] {
     text-align: left;

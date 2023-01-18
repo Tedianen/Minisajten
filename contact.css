@@ -7,7 +7,7 @@ body {
   background-color: rgb(0, 0, 0);
   background-attachment: fixed;
   background-size: cover;
-  height: 2000px;
+  height: 800px;
   width: 100%;
 }
 
@@ -59,6 +59,26 @@ a:hover {
 .search {
   margin-top: 2.3%;
   margin-left: 10%;
+}
+.åva {
+  color: azure;
+  padding: 10%;
+  text-align: center;
+}
+.k1 {
+  padding: 40px;
+}
+.k2 {
+  padding: 40px;
+}
+.sm {
+  padding-top: 10px;
+}
+.sm i {
+  padding: 23px;
+}
+p {
+  padding: 5px;
 }
 @media screen and (max-width: 1000px) {
   .search [type="text"] {
